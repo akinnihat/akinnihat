@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 🔭 I'm Nihat, exploring my interests in robotics, control and space technologies.
 
+📫 You can contact me via
+- e-mail: akinnihat@outlook.com
+- LinkedIn: https://www.linkedin.com/in/akinnihat/
+
+
 ### Skills
 
 <p align="left">
