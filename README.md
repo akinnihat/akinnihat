@@ -40,21 +40,21 @@ Here are some ideas to get you started:
 </p>
 
 ### Some of the Projects I've Worked On
-#### - 4 DoF Robot Arm (June 2023)
+#### 4 DoF Robot Arm (June 2023)
 Design, manufacturing & control software development of a 4DoF robot arm
 
 Repo: https://github.com/akinnihat/2023-4dof-robot-arm
 
 <img src="https://github.com/user-attachments/assets/20513b2f-db65-467f-bff3-849c1272d893" width="175">
 
-#### - Bipedal Walker (2022)
+#### Bipedal Walker (2022)
 Design & control software development of a bipedal walker robot
 
 Repo: https://github.com/akinnihat/2022-bipedalwalker3d
 
 <img src="https://github.com/user-attachments/assets/fd4ad03d-e337-433d-9a67-aa7db39b8bee" width="175">
 
-#### - TauRov Underwater Robot (2021 & 2022)
+#### TauRov Underwater Robot (2021 & 2022)
 Control software development of a autonomous underwater robot
 
 Repo: https://github.com/akinnihat/taurov-underwater-robot
