@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I'm Nihat, exploring my interests in robotics, control and space technologies.
+🔭 I'm Nihat, exploring my interests in robotics, control, space technologies and sometimes gamedev.
 
 📫 You can contact me via
 - e-mail: akinnihat@outlook.com
